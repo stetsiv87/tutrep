@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b2cf7dc-8f1f-4dfe-aff1-d5e30293928e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/css/myblog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/templates/myblog/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/templates/myblog/post_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/templates/myblog/post_list.html" afterPath="$PROJECT_DIR$/myblog/templates/myblog/post_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/urls.py" afterPath="$PROJECT_DIR$/myblog/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/views.py" afterPath="$PROJECT_DIR$/myblog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mytestsite/urls.py" afterPath="$PROJECT_DIR$/mytestsite/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/static/css/myblog.css" afterPath="$PROJECT_DIR$/myblog/static/css/myblog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/templates/myblog/base.html" afterPath="$PROJECT_DIR$/myblog/templates/myblog/base.html" />
     </list>
     <ignored path="mydjango.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/templates/myblog/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -115,18 +109,18 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/templates/myblog/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="264">
+              <caret line="12" column="14" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myblog.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myblog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myblog/static/css/myblog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="286">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -162,13 +156,13 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore.py" />
         <option value="$PROJECT_DIR$/myblog/templates/basic2.html" />
-        <option value="$PROJECT_DIR$/myblog/static/css/myblog.css" />
-        <option value="$PROJECT_DIR$/myblog/templates/myblog/base.html" />
         <option value="$PROJECT_DIR$/mytestsite/urls.py" />
         <option value="$PROJECT_DIR$/myblog/urls.py" />
         <option value="$PROJECT_DIR$/myblog/views.py" />
         <option value="$PROJECT_DIR$/myblog/templates/myblog/post_list.html" />
         <option value="$PROJECT_DIR$/myblog/templates/myblog/post_detail.html" />
+        <option value="$PROJECT_DIR$/myblog/templates/myblog/base.html" />
+        <option value="$PROJECT_DIR$/myblog/static/css/myblog.css" />
       </list>
     </option>
   </component>
@@ -290,6 +284,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="myblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mydjango" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mydjango" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -611,36 +627,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/untitled1/myapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myblog/static/css/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/static/css/myblog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/templates/myblog/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -675,6 +665,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled1/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myblog/templates/myblog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -687,6 +687,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/templates/myblog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/static/css/myblog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
         </state>
       </provider>
